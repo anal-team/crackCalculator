@@ -1,0 +1,8 @@
+#!/usr/bin/python
+# encoding: utf-8
+import sys
+
+print("Crack Calculator initializing...")
+print("crackCalculator --h for help")
+print("Please write the string to calculate:")
+hash = raw_input("Length: ")
